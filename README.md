@@ -3,7 +3,7 @@
 <h3 align="center">Associate Software Engineer | Full-Stack Developer | Java Spring Boot &bull; React &bull; Next.js</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Associate+Software+Engineer+%40+Techcess;Java+Spring+Boot+%7C+React+%7C+Next.js;Gold+Medalist+%7C+4.0+GPA+%7C+Batch+Topper;Building+Scalable+Enterprise+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Associate+Software+Engineer+%40+Techcess Business Solutions;Java+Spring+Boot+%7C+React+%7C+Next.js;Gold+Medalist+%7C+4.0+GPA+%7C+Batch+Topper;Building+Scalable+Enterprise+Applications" />
 </p>
 
 <p align="center">
